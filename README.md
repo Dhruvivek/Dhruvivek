@@ -1,5 +1,21 @@
 # 💫 About Me:
-Hi 👋 I’m a Flutter developer passionate about building clean, functional, and user-friendly mobile applications.<br>I enjoy turning ideas into real products and continuously improving my skills through hands-on projects.<br><br>Currently, I’m focusing on Flutter, Firebase, and  JavaScript(specially back-end) while preparing for internship opportunities.<br>I believe in learning by building and improving step by step.
+
+Hi 👋 I'm Vivek Pathak, a Flutter and Backend Developer passionate about building real-world applications and scalable systems.
+
+📱 On the frontend side, I enjoy creating clean and user-friendly mobile applications using Flutter.
+
+⚙️ On the backend side, I work with Node.js, Express.js, MongoDB, and REST APIs, focusing on authentication, database design, security, and deployment.
+
+🚀 Recently, I've been building backend projects while strengthening my understanding of software engineering, system design, and Data Structures & Algorithms.
+
+🌱 Currently learning:
+
+* Advanced Backend Development
+* Database Optimization
+* System Design Fundamentals
+* Data Structures & Algorithms
+
+💡 I believe the best way to learn is by building products, solving problems, and continuously improving one project at a time.
 
 
 ## 🌐 Socials:
